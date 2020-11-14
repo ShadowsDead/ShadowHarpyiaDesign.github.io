@@ -1,0 +1,54 @@
+
+/*CSS Shadow Harpyia Design*/
+
+  html, body {
+    height: 100%;
+    width: 100%;
+  }
+
+  .navbar {
+    background-color: #202020;
+    padding: 10% 0;
+    font-size: 1.2em;
+  }
+
+  .navbar-brand {
+    min-height: 55px;
+    padding: 0 15px 5px;
+  }
+
+  .navbar-default .navbar-nav li a {
+    color: #ffffff;
+  }
+
+  .navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a:active {
+    color: #00ffff;
+  }
+
+  body { 
+    display: block;
+    margin: 10px;
+    color: #202020;
+    background-color: #000000;
+  }
+   
+  body:focus { 
+    outline: none;
+  }
+
+  h2 {
+    font-family: 'Megrim', cursive;
+  }
+
+  h3 {
+    font-family: 'Kreon', serif;
+  }
+
+  h4 {
+    font-family: 'Rajdhani', sans-serif;
+  }
+
+  h1 {
+    font-family: 'Jolly Lodger', cursive;
+  }
+  
